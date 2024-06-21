@@ -1,0 +1,6 @@
+1453;Cuadros;Rojos;12;Si
+3613;Zebra;Rosa;11;No
+8965;Liso;Azul;8;Si
+7654;Raya;Morado;5;Si
+2341;Estrella;Amarillo;9;No
+9875;Zebra;amarillo;34;Si
